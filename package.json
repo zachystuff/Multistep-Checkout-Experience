@@ -1,0 +1,31 @@
+{
+  "name": "Multistep-Checkout-Experience",
+  "version": "1.0.0",
+  "description": "Build a single-page app that takes a user through a series of forms that simulate a shopping cart checkout experience",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachystuff/Multistep-Checkout-Experience.git"
+  },
+  "keywords": [],
+  "author": "zach_yusuf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachystuff/Multistep-Checkout-Experience/issues"
+  },
+  "dependencies": {
+    "express": "4.17.1",
+    "react-dom": "16.12.0",
+    "react": "16.12.0",
+    "mysql": "2.18.1",
+    "node": "13.8.0"
+  },
+  "devDependencies": {
+    "babel": "6.23.0",
+    "nodemon": "2.0.2"
+  },
+  "homepage": "https://github.com/zachystuff/Multistep-Checkout-Experience#readme"
+}
